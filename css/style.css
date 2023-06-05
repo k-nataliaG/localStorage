@@ -1,0 +1,80 @@
+* { 
+    padding: 0;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 12px;
+
+}
+body{
+    background-color: rgb(238, 139, 186);
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pregunta{
+    padding-top: 10px;
+    color: white;
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.respuesta{
+    padding-top: 10px;
+    color: white;
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.res{
+    padding-top: 10px;
+    color: white;
+    font-size: 2em;
+}
+.sele{
+    font-size: 2em;
+    cursor: pointer;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(245, 185, 211);
+}
+
+.button{
+    font-size: 2em;
+    border-radius:20px;
+    margin-left: 20px;
+    border-style:none;
+    background-color: rgb(245, 185, 211);
+    color: white;
+    padding: 10px 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.button:hover{
+    color: white;
+    cursor: pointer;
+    border-radius:20px;
+    border: 2px solid white;
+    background-color: rgb(245, 185, 211);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
+    margin-left: 20px;
+    background-color: rgb(245, 185, 211);
+    border-radius: 20px;
+    padding: 10px 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+a:hover{
+    color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 10px 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
